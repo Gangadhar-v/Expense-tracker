@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Expenso" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">#4361ee</item>
+    </style>
+
+    <style name="Theme.Expenso" parent="Base.Theme.Expenso" />
+    <style name = "ScreenBackground"><item name = "android:background">@color/white</item></style>
+    <style name ="CardBackground"><item name = "android:background">@color/white2</item></style>
+    <style name = "TextColor"><item name="android:textColor">@color/black</item></style>
+    <style name ="SnackbarBackgroud"><item name="backgroundTint">@color/darkGray</item></style>
+</resources>
