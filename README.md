@@ -1,5 +1,5 @@
 # Expense-tracker
-A Simple expense tracker app using android kotlin, room database, MVVM architecture and other libraries to show statistcs.
+A Simple expense tracker app using android kotlin, room database, MVVM architecture, LiveData and other libraries to show statistcs.
 
 # output
 # MainScreen
